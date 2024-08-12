@@ -6,7 +6,7 @@
 
 Nesse semestre teremos um novo desafio na construção do Projeto, onde vocês irão construir um **Sistema WEB** publicado em um provedor de Cloud, por exemplo na **AWS**, **AZURE**, **Google Cloud**, **Vercel**, **outro provedor de Cloud** ou hospedagem tradicional e versionando no **Github**.
 
-O projeto deve atender a uma demanda real, a qualquer um dos 3 grupos distintos:
+O projeto deve atender a uma demanda real, a qualquer um dos 4 grupos distintos:
  - ONG.
  - Projeto Cultural.
  - Projeto de extensão universitária.
