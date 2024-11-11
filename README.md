@@ -47,7 +47,7 @@ Sem o correto preenchimento do formulário o trabalho não será corrigido.
 * Entrega do projeto até **14/11/2024**
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na Cloud ou hospedagem.
-	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** será informado em 08/11/2024
+	+ Preenchimento do formulário formalizando a entrega do projeto. **Link:** https://forms.gle/mik9P8W9jUH25qJdA
   + Link do vídeo de apresentação do projeto, com no mínimo de 5 minutos, deve constar no repositório do github. (link do youtube)
   + Atenção: Informar todos os alunos no formulário, conforme exemplo indicado no link.
 * Revisão final do projeto até **06/12/2024**
